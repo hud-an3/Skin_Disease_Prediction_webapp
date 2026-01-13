@@ -20,12 +20,6 @@ User → Image Upload → ResNet Inference → Payment → Result Display & PDF
 
 ---
 
-## 📸 Screenshots / UI 
-
-> *Add screenshots of the UI here once available to give users a preview of the app.*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** TypeScript, Vite, TailwindCSS
