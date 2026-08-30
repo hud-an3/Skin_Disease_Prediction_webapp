@@ -20,7 +20,7 @@ User → Image Upload → ResNet Inference → Payment → Result Display & PDF
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** TypeScript, Vite, TailwindCSS
 - **Backend:** Node.js / Express (or Python Flask/Django)
@@ -31,7 +31,7 @@ User → Image Upload → ResNet Inference → Payment → Result Display & PDF
 
 ---
 
-## 🧾 Dataset Information
+## Dataset Information
 
 We used publicly available datasets for training and testing:
 
@@ -40,7 +40,7 @@ We used publicly available datasets for training and testing:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer        | Technology                     |
 |--------------|--------------------------------|
